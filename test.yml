@@ -1,5 +1,5 @@
 config:
-  target: 'localhost:3000'
+  target: 'https://vast-inlet-08992.herokuapp.com'
   phases:
     - duration: 60
       arrivalRate: 10
